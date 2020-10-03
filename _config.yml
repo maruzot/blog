@@ -105,3 +105,4 @@ theme: landscape
 deploy:
   type: git
   repo: git@github.com:maruzot/maruzot.github.io.git
+  branch: hexo-pages
