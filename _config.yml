@@ -104,5 +104,4 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/maruzot/blog.git
-  branch: master
+  github: git@github.com:maruzot/maruzot.github.io.git
